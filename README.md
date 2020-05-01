@@ -2,7 +2,7 @@
 
 NumPy offers the `save` method for easy saving of arrays into .npy and `savez` for zipping multiple .npy arrays together into a .npz file. 
 
-`NpyArray.h` lets you read and write to these formats in C++. 
+Adding the `NpyArray.hpp` header to your C++ project lets you read and write your data in these formats. 
 
 The motivation comes from scientific programming where large amounts of data are generated in C++ and analyzed in Python.
 
