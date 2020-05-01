@@ -1,4 +1,4 @@
-#include"cnpy.h"
+#include"NpyArray.h"
 #include<complex>
 #include<cstdlib>
 #include<iostream>
